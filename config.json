@@ -1,4 +1,4 @@
 {
-    "version": "1.0",
-    "payment": "disabled"
+"version": "1.0",
+"payment": "enabled"
 }
